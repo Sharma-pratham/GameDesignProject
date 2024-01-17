@@ -1,6 +1,6 @@
 # GameDesignProject
 
-### Game Concept
+## Game Concept
 
 
 
